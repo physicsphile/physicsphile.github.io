@@ -1,5 +1,5 @@
 var username = 'admin';
-var password = 'a$z5w3';
+var password = 'admin';
 username=prompt('This is password protected page, please enter username to continue.','');
 password=prompt('This is password protected page, please enter password to continue.','');
 if (username != 'admin' || password != 'a$z5w3') {
